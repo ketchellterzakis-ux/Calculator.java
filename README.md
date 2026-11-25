@@ -1,5 +1,5 @@
 # JavaFX Calculator
-
+I made this project for my fundamentals of programming II class. 
 A desktop calculator with a graphical interface, built in Java with JavaFX. It was built as a lab for [your course name] at Montclair State University.
 
 ## What it does
